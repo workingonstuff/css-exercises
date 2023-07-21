@@ -1,0 +1,17 @@
+.c {
+    background-color: rgb(241, 154, 154);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+#two {
+    color: rgb(0,0,200);
+    font-size:36px;
+}
+.c#three {
+    font-size:24px;
+}
+
+#four {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: rgb(177, 233, 177)
+}
